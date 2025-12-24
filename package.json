@@ -1,0 +1,28 @@
+{
+  "name": "evm-relayer",
+  "version": "1.0.0",
+  "description": "Deterministic cross-chain relayer for Suirify. Enables EVM users to mint Sui-based Self Soverign Suirify identities using cryptographic signature-to-key derivation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suirifyprotocol/evm-relayer.git"
+  },
+  "keywords": [
+    "Sui",
+    "EVM",
+    "ETH",
+    "Smart",
+    "Contracts",
+    "Blockchain",
+    "Relayer"
+  ],
+  "author": "Suirify Team",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/suirifyprotocol/evm-relayer/issues"
+  },
+  "homepage": "https://github.com/suirifyprotocol/evm-relayer#readme"
+}
